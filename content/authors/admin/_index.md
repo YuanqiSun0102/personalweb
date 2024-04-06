@@ -62,7 +62,7 @@ education:
 
 internship:
   - position: Equity Research Intern
-    company_name: Shanghai Log Research Management Consulting Co., Ltd.
+    company_name: Shanghai Log Research Management Consulting
     company_url: ''
     company_logo: ''
     date_start: 2021-09-27
@@ -73,7 +73,7 @@ internship:
       - Collaborated with senior researchers to enhance the company's revenue and net profit forecasting models through the application of time series analysis and regression methods using the R programming language.
       - Assisted in finalizing the future profit and risk assessment reports for the six prominent companies and the forthcoming revenue report for their battery supplier, Contemporary Amperex Technology Co. Ltd.
   - position: Investment Analyst Intern
-    company_name: Beijing Infrastructure Investment Co., Ltd
+    company_name: Beijing Infrastructure Investment
     company_url: ''
     company_logo: ''
     date_start: 2021-07-01
@@ -96,7 +96,7 @@ project:
       - Replicated machine-learning models from a research paper using Python, focusing on forecasting bankruptcy using financial indicators.
       - Deployed referenced Random Forest and Support Vector Machine models for bankruptcy prediction, conducting a comparative analysis of their performances through AUC scores. Achieved a notably high AUC score, consistent with the referenced research, particularly with the Random Forest method on the test set.
   - project_name: Permutation Polynomial
-    place_name: Washington Experimental Mathematics Lab, UW Seattle
+    place_name: Washington Experimental Mathematics Lab UW Seattle
     company_url: ''
     company_logo: ''
     date_start: 2022-03-20
