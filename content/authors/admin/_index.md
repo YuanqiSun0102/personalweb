@@ -6,12 +6,12 @@ title: Yuanqi Sun
 # name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-# first_name: Shiung Wu
-# last_name: Chien
+first_name: Yuanqi
+last_name: Sun
 
 # Status emoji
-# status:
-  # icon: ☕️
+status:
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -27,17 +27,17 @@ superuser: true
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 # profiles:
-  # - icon: at-symbol
-    # url: 'mailto:your-email@example.com'
-    # label: E-mail Me
-  # - icon: brands/x
-    # url: https://twitter.com/GetResearchDev
-  # - icon: brands/github
-    # url: https://github.com/gcushen
-  # - icon: brands/linkedin
-    # url: https://www.linkedin.com/
-  # - icon: brands/instagram
-    # url: https://www.instagram.com/
+#   - icon: at-symbol
+#     url: 'mailto:your-email@example.com'
+#     label: E-mail Me
+#   - icon: brands/x
+#     url: https://twitter.com/GetResearchDev
+#   - icon: brands/github
+#     url: https://github.com/gcushen
+#   - icon: brands/linkedin
+#     url: https://www.linkedin.com/
+#   - icon: brands/instagram
+#     url: https://www.instagram.com/
 
 aboutme:
  - summary: |
