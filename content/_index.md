@@ -1,6 +1,6 @@
 ---
 title: 'Home'
-date: 2023-10-24
+date: 2024-04-05
 type: landing
 
 design:
@@ -15,34 +15,50 @@ sections:
     content:
       username: admin
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download Résumé
-        url: uploads/resume.pdf
+      # button:
+      #   text: Download Résumé
+      #   url: uploads/resume.pdf
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
-        filename: kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
+        filename: IMG_0719.jpg
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
-  - block: experience
+  - block: AboutMe
+    content: 
+      title: About Me
+      username: admin
+  - block: Education
     content:
       username: admin
     design:
       # Hugo date format
       date_format: 'January 2006'
       # Education or Experience section first?
-      is_education_first: false
-  - block: skills
+      # is_education_first: false
+  - block: Internship Experience
     content:
-      title: Skills & Hobbies
       username: admin
-  - block: awards
+    design:
+      # Hugo date format
+      date_format: 'January 2006'
+  - block: Project & Research Experience
     content:
-      title: Awards
       username: admin
-  - block: languages
-    content:
-      title: Languages
-      username: admin
+    design:
+      # Hugo date format
+      date_format: 'January 2006'
+  # - block: skills
+  #   content:
+  #     title: Skills & Hobbies
+  #     username: admin
+  # - block: awards
+  #   content:
+  #     title: Awards
+  #     username: admin
+  # - block: languages
+  #   content:
+  #     title: Languages
+  #     username: admin
 ---
