@@ -17,27 +17,27 @@ status:
 superuser: true
 
 # Role/position/tagline
-# role: Director of Cloud Infrastructure
+role: Director of Cloud Infrastructure
 
 # Organizations/Affiliations to display in Biography blox
-# organizations:
-  # - name: GenCoin
-    # url: https://www.example.com/
+organizations:
+  - name: GenCoin
+    url: https://www.example.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-# profiles:
-#   - icon: at-symbol
-#     url: 'mailto:your-email@example.com'
-#     label: E-mail Me
-#   - icon: brands/x
-#     url: https://twitter.com/GetResearchDev
-#   - icon: brands/github
-#     url: https://github.com/gcushen
-#   - icon: brands/linkedin
-#     url: https://www.linkedin.com/
-#   - icon: brands/instagram
-#     url: https://www.instagram.com/
+profiles:
+  - icon: at-symbol
+    url: 'mailto:your-email@example.com'
+    label: E-mail Me
+  - icon: brands/x
+    url: https://twitter.com/GetResearchDev
+  - icon: brands/github
+    url: https://github.com/gcushen
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/
+  - icon: brands/instagram
+    url: https://www.instagram.com/
 
 aboutme:
  - summary: |
