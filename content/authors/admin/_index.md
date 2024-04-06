@@ -52,7 +52,6 @@ education:
     date_end: 2024-12-15
     summary: |
       Courses included: Financial Risk Management, Machine Learning, Optimization, Big Data Technologies, Time Series Analysis.
-    
   - area: BSc Mathematics; BSc Computational Finance and Risk Management
     institution: University of Washington
     date_start: 2019-09-30
