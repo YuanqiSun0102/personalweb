@@ -25,11 +25,11 @@ sections:
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
-  - block: AboutMe
+  - block: aboutme
     content: 
       title: About Me
       username: admin
-  - block: Education
+  - block: education
     content:
       username: admin
     design:
@@ -37,14 +37,16 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       # is_education_first: false
-  - block: Internship Experience
+  - block: internship
     content:
+      title: Internship Experience
       username: admin
     design:
       # Hugo date format
       date_format: 'January 2006'
-  - block: Project & Research Experience
+  - block: project
     content:
+      title: Project & Research Experience
       username: admin
     design:
       # Hugo date format

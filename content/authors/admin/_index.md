@@ -39,13 +39,13 @@ superuser: true
   # - icon: brands/instagram
     # url: https://www.instagram.com/
 
-AboutMe:
+aboutme:
  - summary: |
     I am currently a Master student in Operations Research with a specialization of Financial Engineering at Cornell University. Before coming to Cornell, I completed my BSc in Mathematics and BSc in Computational Finance and Risk Management at the University of Washington. My passion lies in using quantitative methods to solve complex problems, and I have a strong foundation in statistical analysis, machine learning, and financial risk management with several practical experiences. 
     In my spare time, I love reading, solving jigsaw puzzles, traveling, and gaming. 
     Contact me at: ys2274[at]cornell[dot]edu
 
-Education:
+education:
   - area: MEng Financial Engineering
     institution: Cornell University
     date_start: 2023-08-21
@@ -61,7 +61,7 @@ Education:
       Magna Cum Laude
       Courses included: Stochastic Calculus, Numerical Analysis, Modern Algebra, Combinatorics. 
 
-Internship Experience:
+internship:
   - position: Equity Research Intern
     company_name: Shanghai Log Research Management Consulting Co., Ltd.
     company_url: ''
@@ -85,7 +85,7 @@ Internship Experience:
       • Contributed to develop an annual pricing model for 10 portfolio companies, enabling data-driven assessments of their financial performance and growth prospects.
       • Supported an equity transfer project proposal by conducting thorough industry background analyses. Offered sales data insights that contributed to the evaluation and negotiation of investment terms and conditions.
 
-Project & Research Experience:
+project:
   - project_name: Bankruptcy Prediction Using Machine Learning
     place_name: UW Seattle
     company_url: ''
